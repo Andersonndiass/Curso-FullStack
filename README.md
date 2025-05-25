@@ -1,7 +1,5 @@
 ## Curso FullStack
 
-- Lista de tarefas
-[clique aqui](https://andersonndiass.github.io/Curso-FullStack/list/assets/).
+- Lista de tarefas  <a href="https://andersonndiass.github.io/Curso-FullStack/list/assets/" target="_blank">clique aqui</a>
 
-- Timer [clique aqui](https://andersonndiass.github.io/Curso-FullStack/timer/assets/).
-
+- Timer  <a href="https://andersonndiass.github.io/Curso-FullStack/timer/assets/" target="_blank">clique aqui</a>
